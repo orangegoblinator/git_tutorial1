@@ -6,4 +6,4 @@ Enter some text below this line:
 --------------------
 I added this line in Windows MINGW64
 
-This line is on the windows-branch
+windows-branch
